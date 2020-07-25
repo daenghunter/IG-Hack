@@ -25,9 +25,9 @@ echo   "        █████████          "
 echo   "          ██ ██            "  
 echo   ""
 echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●   "   
-echo   "     Zan & Azhari          "   
+echo   "     DaengEXploit-ID          "   
 echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●   "    
-echo   "          blog.linuxploit.com              "    
+echo   " WhatsApp : 081342077268"    
 echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●   "   
 
 #dependencies
