@@ -25,11 +25,9 @@ echo   "        █████████          "
 echo   "          ██ ██            "  
 echo   ""
 echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●   "   
-echo   "     XploitSecurity-ID         "   
+echo   "     DaengEXploit-ID         "   
 echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●   "    
-echo   "Tutorial nya silahkan cek blog saya "    
-echo   "    blog.linuxploit.com  "    
-echo   " Silahkan Contact saya : +6288802832083"    
+echo   " WhatsApp : 081342077268"    
 echo   "  ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●   "   
 
 #dependencies
